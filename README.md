@@ -36,7 +36,7 @@ There is not that much security best practices in place by default with your Kub
 
 - Private API server endpoint
 - De-privilege default node service accounts
-- Private nodes
+- Private nodes with Cloud NAT for egress
 - Shielded nodes
 - Confidential nodes
 - COS-containerd nodes image
@@ -54,3 +54,4 @@ There is not that much security best practices in place by default with your Kub
 - [Threat Matrix for Kubernetes](http://aka.ms/KubernetesThreatMatrix)
 - [OWASP Kubernetes Top Ten](https://owasp.org/www-project-kubernetes-top-ten/)
 - [CIS Benchmark for Kubernetes](https://www.cisecurity.org/benchmark/kubernetes)
+- [Harden your GKE cluster’s Security](https://cloud.google.com/kubernetes-engine/docs/how-to/hardening-your-cluster)
