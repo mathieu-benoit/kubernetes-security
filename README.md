@@ -24,7 +24,13 @@ There is not that much security best practices in place by default with your Kub
 
 ## Kubernetes NetworkPolicies
 
+- Deny all ingress and egress per namespace
+- Add fine granular ingress and egress access per Pod
+
 ## Kubernetes Policies
+
+- OPA Gatekeeper
+- Kyverno
 
 ## Google Kubernetes Engine (GKE)
 
