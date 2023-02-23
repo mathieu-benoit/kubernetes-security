@@ -45,6 +45,7 @@ There is not that much security best practices in place by default with your Kub
 - [Encrypt etcd](https://cloud.google.com/kubernetes-engine/docs/how-to/encrypting-secrets)
 - Dataplane V2 with NetworPolicies logging
 - Protect public ingress with Cloud Armor (DDOS and WAF) and Managed Certificates
+- Managed Controlplane and Dataplane for Anthos Service Mesh
 - Security Posture dashboard (container configurations and images scanning)
 - Anthos Security Insights dashboard
 
