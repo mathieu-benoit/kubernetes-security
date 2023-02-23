@@ -36,8 +36,11 @@ There is not that much security best practices in place by default with your Kub
 - COS-containerd nodes image
 - Nodes auto-update
 - Workload Identity to bridge Kubernetes IAM with Google Cloud IAM
+- [Encrypt etcd](https://cloud.google.com/kubernetes-engine/docs/how-to/encrypting-secrets)
+- Protect public ingress with Cloud Armor (DDOS and WAF) and Managed Certificates
 
 ## Resources
 
 - [Threat Matrix for Kubernetes](http://aka.ms/KubernetesThreatMatrix)
 - [OWASP Kubernetes Top Ten](https://owasp.org/www-project-kubernetes-top-ten/)
+- [CIS Benchmark for Kubernetes](https://www.cisecurity.org/benchmark/kubernetes)
