@@ -43,6 +43,7 @@ There is not that much security best practices in place by default with your Kub
 - Nodes auto-update
 - Workload Identity to bridge Kubernetes IAM with Google Cloud IAM
 - [Encrypt etcd](https://cloud.google.com/kubernetes-engine/docs/how-to/encrypting-secrets)
+- Dataplane V2
 - Protect public ingress with Cloud Armor (DDOS and WAF) and Managed Certificates
 
 ## Resources
