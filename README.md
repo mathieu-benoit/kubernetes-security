@@ -1,3 +1,5 @@
+Work in progress...
+
 There is not that much security best practices in place by default with your Kubernetes clusters and your containers, let’s see what you need to do by yourself to mitigate this.
 
 ## Containers
@@ -55,3 +57,4 @@ There is not that much security best practices in place by default with your Kub
 - [OWASP Kubernetes Top Ten](https://owasp.org/www-project-kubernetes-top-ten/)
 - [CIS Benchmark for Kubernetes](https://www.cisecurity.org/benchmark/kubernetes)
 - [Harden your GKE cluster’s Security](https://cloud.google.com/kubernetes-engine/docs/how-to/hardening-your-cluster)
+- [Bridgecrew policies](https://docs.bridgecrew.io/docs/kubernetes-policy-index)
